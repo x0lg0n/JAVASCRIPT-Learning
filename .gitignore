@@ -1,1 +1,6 @@
 /.qodo
+
+node_modules/**/*
+!node_modules/@angular/cli/bin/ng
+
+package-lock.json
