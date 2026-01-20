@@ -15,6 +15,7 @@ Before you begin, ensure you have the following installed:
 ### Setup
 
 If you plan to use external libraries, you can initialize a `package.json` file:
+
 ```bash
 npm init -y
 ```
@@ -34,8 +35,9 @@ This repository can be organized to keep learning materials structured. You can 
 
 Most of the code can be run in one of two ways:
 
-1.  **In the Browser:** Open the corresponding `.html` file in your web browser and open the developer console (usually with `F12` or `Ctrl+Shift+I`) to see the output.
-2.  **Using Node.js:** Run standalone `.js` files from your terminal:
+1. **In the Browser:** Open the corresponding `.html` file in your web browser and open the developer console (usually with `F12` or `Ctrl+Shift+I`) to see the output.
+2. **Using Node.js:** Run standalone `.js` files from your terminal:
+
     ```bash
     node path/to/your/file.js
     ```

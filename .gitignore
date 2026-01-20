@@ -1,4 +1,6 @@
 /.qodo
+/.zencoder
+/.zenflow
 
 node_modules/**/*
 !node_modules/@angular/cli/bin/ng
