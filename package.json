@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5",
     "prompt-sync": "^4.2.0"
   },
+  "types": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

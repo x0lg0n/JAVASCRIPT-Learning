@@ -1,3 +1,10 @@
+// Basic Operators - Unary, Binary, Ternary
+
+// Unary Operator
+let x = 5;
+console.log(-x); // Negation
+
+
 // Arithmetic Operators
 let a = 10;
 let b = 56;
@@ -54,6 +61,11 @@ console.log(a && b);
 console.log(a || b);
 console.log(!a);
 console.log(!b);
+// Nullish coalescing operator '??'
+let val1 = null;
+let val2 = "Hello";
+console.log(val1 ?? val2); // Outputs "Hello" because val1 is null
+
 
 // Bitwise Operators
 console.log(a & b);
