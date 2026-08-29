@@ -1,6 +1,6 @@
-const prompt = require('prompt-sync')();
 
-let n = parseInt(prompt("Enter a number"));
+
+let n = 4;
 
 for (let i = 0; i < n; i++) {
     console.log(i + 1);
